@@ -3,7 +3,7 @@
 Analysis pipeline measuring how well LLM answers to value-laden
 survey questions align with human responses from the European Social Survey
 (ESS), broken down by country and socio-demographic group. The pipeline reproduces 
-the results from the paper "People Are Not Just Their Countries. Disentangling Social Determinants of LLM Value Alignment Across Europe" accepted at the AAAI/ACM conference on Artificial Intelligence, Ethics and Society (AIES) 2026. The repository also includes the Supplementary Material pdf for the paper.
+the results from the paper "People Are Not Just Their Countries. Disentangling Social Determinants of LLM Value Alignment Across Europe", published in the [Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026)](https://doi.org/10.1609/aies.v9i4.43344). The repository also includes the Supplementary Material pdf for the paper.
 
 ## Setup
 
@@ -126,18 +126,17 @@ the model calls is not included — answers were collected via the batch APIs wh
 
 
 ```bibtex
-@misc{wightman2026people,
-  title         = {People Are Not Just Their Countries. Disentangling Social
-                   Determinants of {LLM} Value Alignment Across Europe},
-  author        = {Wightman, Maria-Louisa and Bied, Guillaume and De Bie, Tijl},
-  year          = {2026},
-  eprint        = {2608.07367},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CY},
-  doi           = {10.48550/arXiv.2608.07367},
-  url           = {https://arxiv.org/abs/2608.07367},
-  note          = {Accepted at the AAAI/ACM Conference on AI, Ethics, and
-                   Society (AIES) 2026}
+@inproceedings{wightman2026people,
+  title     = {People Are Not Just Their Countries. Disentangling Social
+               Determinants of {LLM} Value Alignment Across Europe},
+  author    = {Wightman, Maria-Louisa and Bied, Guillaume and De Bie, Tijl},
+  booktitle = {Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society},
+  volume    = {9},
+  number    = {4},
+  pages     = {2725--2737},
+  year      = {2026},
+  doi       = {10.1609/aies.v9i4.43344},
+  url       = {https://ojs.aaai.org/index.php/AIES/article/view/43344}
 }
 ```
 
