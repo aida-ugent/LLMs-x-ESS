@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+.venv-gbm-lab/
+
+# Raw ESS data (download from https://ess.sikt.no/ — see README)
+ESS11e04_0/
+
+# Databases (ESS11.db is built by --data-preparation;
+# model_responses.db is available from the authors on request)
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pipeline output (figures + intermediate dumps)
+*.jsonl
+*.zip
+*.png
+
+# Credentials
+*_token.txt
+
+# PDFs, except the Supplementary Material shipped with the paper
+*.pdf
+!Supplementary Material.pdf
+
+# OS / editor cruft
+.DS_Store
+.ipynb_checkpoints/

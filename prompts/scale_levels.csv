@@ -1,0 +1,257 @@
+min_label,max_label,min_scale,max_scale,scale_value,label
+Not at all,A great deal,1,4,1,Not at all
+Not at all,A great deal,1,4,2,A little
+Not at all,A great deal,1,4,3,Quite a lot
+Not at all,A great deal,1,4,4,A great deal
+Agree strongly,Disagree strongly,1,5,1,Agree strongly
+Agree strongly,Disagree strongly,1,5,2,Agree
+Agree strongly,Disagree strongly,1,5,3,Neither agree nor disagree
+Agree strongly,Disagree strongly,1,5,4,Disagree
+Agree strongly,Disagree strongly,1,5,5,Disagree strongly
+Not at all,Completely,0,10,1,Not at all
+Not at all,Completely,0,10,2,Not very much
+Not at all,Completely,0,10,3,Somewhat
+Not at all,Completely,0,10,4,Mostly
+Not at all,Completely,0,10,5,Completely
+Mainly a task for the government,Mainly a task for the family,1,5,1,Mainly a task for the government
+Mainly a task for the government,Mainly a task for the family,1,5,2,More a task for the government than for a family
+Mainly a task for the government,Mainly a task for the family,1,5,3,A task equally for both the government and the family
+Mainly a task for the government,Mainly a task for the family,1,5,4,More a task for the family than for the government
+Mainly a task for the government,Mainly a task for the family,1,5,5,Mainly a task for the family
+Not at all true of me,Very true of me,1,5,1,Not at all true of me
+Not at all true of me,Very true of me,1,5,2,Not very true of me
+Not at all true of me,Very true of me,1,5,3,Somewhat true of me
+Not at all true of me,Very true of me,1,5,4,Mostly true of me
+Not at all true of me,Very true of me,1,5,5,Very true of me
+Totally uncomfortable,Totally comfortable,0,10,1,Totally uncomfortable
+Totally uncomfortable,Totally comfortable,0,10,2,Rather uncomfortable
+Totally uncomfortable,Totally comfortable,0,10,3,Neither uncomfortable nor comfortable
+Totally uncomfortable,Totally comfortable,0,10,4,Rather comfortable
+Totally uncomfortable,Totally comfortable,0,10,5,Totally comfortable
+Not at all confident,Completely confident,0,10,1,Not at all confident
+Not at all confident,Completely confident,0,10,2,Slightly confident
+Not at all confident,Completely confident,0,10,3,Somewhat confident
+Not at all confident,Completely confident,0,10,4,Very confident
+Not at all confident,Completely confident,0,10,5,Completely confident
+Always,Never,1,5,1,Always
+Always,Never,1,5,2,Often
+Always,Never,1,5,3,Sometimes
+Always,Never,1,5,4,Hardly ever
+Always,Never,1,5,5,Never
+Not at all,A great deal,0,10,1,Not at all
+Not at all,A great deal,0,10,2,Slightly
+Not at all,A great deal,0,10,3,Somewhat
+Not at all,A great deal,0,10,4,Mostly
+Not at all,A great deal,0,10,5,A great deal
+Far more than more developed countries,Far less than more developed countries,1,5,1,Far more than more developed countries
+Far more than more developed countries,Far less than more developed countries,1,5,2,Somewhat more than more developed countries
+Far more than more developed countries,Far less than more developed countries,1,5,3,About the same as more developed countries
+Far more than more developed countries,Far less than more developed countries,1,5,4,Somewhat less than more developed countries
+Far more than more developed countries,Far less than more developed countries,1,5,5,Far less than more developed countries
+Far more than current generations,Climate change will not impact anyone,1,6,1,Far more than current generations
+Far more than current generations,Climate change will not impact anyone,1,6,2,Equally as current generations
+Far more than current generations,Climate change will not impact anyone,1,6,3,Less than current generations
+Far more than current generations,Climate change will not impact anyone,1,6,4,Climate change will not impact anyone
+Not at all confident,Extremely confident,1,5,1,Not at all confident
+Not at all confident,Extremely confident,1,5,2,Not very confident
+Not at all confident,Extremely confident,1,5,3,Fairly confident
+Not at all confident,Extremely confident,1,5,4,Very confident
+Not at all confident,Extremely confident,1,5,5,Extremely confident
+Strongly in favour,Strongly against,1,5,1,Strongly in favour
+Strongly in favour,Strongly against,1,5,2,In favour
+Strongly in favour,Strongly against,1,5,3,Neither in favour nor against
+Strongly in favour,Strongly against,1,5,4,Against
+Strongly in favour,Strongly against,1,5,5,Strongly against
+Never,Always,1,6,1,Never
+Never,Always,1,6,2,Sometimes
+Never,Always,1,6,3,Most of the time
+Never,Always,1,6,4,Always
+Describes country very well,Describes country not well at all,1,4,1,Describes country very well
+Describes country very well,Describes country not well at all,1,4,2,Describes country somewhat well
+Describes country very well,Describes country not well at all,1,4,3,Describes country not too well
+Describes country very well,Describes country not well at all,1,4,4,Describes country not well at all
+You can't be too careful,Most people can be trusted,0,10,1,You can't be too careful
+You can't be too careful,Most people can be trusted,0,10,2,Few people can be trusted
+You can't be too careful,Most people can be trusted,0,10,3,Neither
+You can't be too careful,Most people can be trusted,0,10,4,Many people can be trusted
+You can't be too careful,Most people can be trusted,0,10,5,Most people can be trusted
+Most people try to take advantage of me,Most people try to be fair,0,10,1,Most people try to take advantage of me
+Most people try to take advantage of me,Most people try to be fair,0,10,2,Some people try to take advantage of me
+Most people try to take advantage of me,Most people try to be fair,0,10,3,Neither
+Most people try to take advantage of me,Most people try to be fair,0,10,4,Some people try to be fair
+Most people try to take advantage of me,Most people try to be fair,0,10,5,Most people try to be fair
+People mostly look out for themselves,People mostly try to be helpful,0,10,1,People mostly look out for themselves
+People mostly look out for themselves,People mostly try to be helpful,0,10,2,People tend to look out for themselves
+People mostly look out for themselves,People mostly try to be helpful,0,10,3,Neither
+People mostly look out for themselves,People mostly try to be helpful,0,10,4,People tend to be helpful
+People mostly look out for themselves,People mostly try to be helpful,0,10,5,People mostly try to be helpful
+Very interested,Not at all interested,1,4,1,Very interested
+Very interested,Not at all interested,1,4,2,Quite interested
+Very interested,Not at all interested,1,4,3,Hardly interested
+Very interested,Not at all interested,1,4,4,Not at all interested
+Not at all,A great deal,1,5,1,Not at all
+Not at all,A great deal,1,5,2,Very little
+Not at all,A great deal,1,5,3,Some
+Not at all,A great deal,1,5,4,A lot
+Not at all,A great deal,1,5,5,A great deal
+Not at all able,Completely able,1,5,1,Not at all able
+Not at all able,Completely able,1,5,2,A little able
+Not at all able,Completely able,1,5,3,Quite able
+Not at all able,Completely able,1,5,4,Very able
+Not at all able,Completely able,1,5,5,Completely able
+Not at all confident,Completely confident,1,5,1,Not at all confident
+Not at all confident,Completely confident,1,5,2,A little confident
+Not at all confident,Completely confident,1,5,3,Quite confident
+Not at all confident,Completely confident,1,5,4,Very confident
+Not at all confident,Completely confident,1,5,5,Completely confident
+No trust at all,Complete trust,0,10,1,No trust at all
+No trust at all,Complete trust,0,10,2,A little trust
+No trust at all,Complete trust,0,10,3,Some trust
+No trust at all,Complete trust,0,10,4,A lot of trust
+No trust at all,Complete trust,0,10,5,Complete trust
+Very close,Not at all close,1,4,1,Very close
+Very close,Not at all close,1,4,2,Quite close
+Very close,Not at all close,1,4,3,Not close
+Very close,Not at all close,1,4,4,Not at all close
+Left,Right,0,10,1,Left
+Left,Right,0,10,2,Rather left
+Left,Right,0,10,3,Neither left nor right
+Left,Right,0,10,4,Rather right
+Left,Right,0,10,5,Right
+Unification already gone too far,Unification go further,0,10,1,Unification already gone too far
+Unification already gone too far,Unification go further,0,10,2,Unification has gone a bit too far
+Unification already gone too far,Unification go further,0,10,3,Fine as is
+Unification already gone too far,Unification go further,0,10,4,Unification could go a bit further
+Unification already gone too far,Unification go further,0,10,5,Unification go further
+Not at all emotionally attached,Very emotionally attached,0,10,1,Not at all emotionally attached
+Not at all emotionally attached,Very emotionally attached,0,10,2,Slightly emotionally attached
+Not at all emotionally attached,Very emotionally attached,0,10,3,Somewhat emotionally attached
+Not at all emotionally attached,Very emotionally attached,0,10,4,Emotionally attached
+Not at all emotionally attached,Very emotionally attached,0,10,5,Very emotionally attached
+Not at all religious,Very religious,0,10,1,Not at all religious
+Not at all religious,Very religious,0,10,2,Slightly religious
+Not at all religious,Very religious,0,10,3,Somewhat religious
+Not at all religious,Very religious,0,10,4,Rather religious
+Not at all religious,Very religious,0,10,5,Very religious
+Entirely by natural processes,I don't think climate change is happening,1,5,1,Entirely by natural processes
+Entirely by natural processes,I don't think climate change is happening,1,5,2,Mostly by natural processes
+Entirely by natural processes,I don't think climate change is happening,1,5,3,Equally by natural and human processes
+Entirely by natural processes,I don't think climate change is happening,1,5,4,Mostly by human activity
+Entirely by natural processes,I don't think climate change is happening,1,5,5,Entirely by human activity
+Not at all worried,Extremely worried,1,5,1,Not at all worried
+Not at all worried,Extremely worried,1,5,2,Not very worried
+Not at all worried,Extremely worried,1,5,3,Somewhat worried
+Not at all worried,Extremely worried,1,5,4,Very worried
+Not at all worried,Extremely worried,1,5,5,Extremely worried
+Not at all likely,Extremely likely,0,10,1,Not at all likely
+Not at all likely,Extremely likely,0,10,2,Not very likely
+Not at all likely,Extremely likely,0,10,3,Somewhat likely
+Not at all likely,Extremely likely,0,10,4,Very likely
+Not at all likely,Extremely likely,0,10,5,Extremely likely
+Not at all likely,Very likely,1,4,1,Not at all likely
+Not at all likely,Very likely,1,4,2,Not very likely
+Not at all likely,Very likely,1,4,3,Likely
+Not at all likely,Very likely,1,4,4,Very likely
+Not at all likely,Extremely likely,0,6,1,Not at all likely
+Not at all likely,Extremely likely,0,6,2,Not very likely
+Not at all likely,Extremely likely,0,6,3,Somewhat likely
+Not at all likely,Extremely likely,0,6,4,Very likely
+Not at all likely,Extremely likely,0,6,5,Extremely likely
+Not at all important for democracy in general,Extremely important for democracy in general,0,10,1,Not at all important for democracy in general
+Not at all important for democracy in general,Extremely important for democracy in general,0,10,2,Not very important for democracy in general
+Not at all important for democracy in general,Extremely important for democracy in general,0,10,3,Somewhat important for democracy in general 
+Not at all important for democracy in general,Extremely important for democracy in general,0,10,4,Very important for democracy in general
+Not at all important for democracy in general,Extremely important for democracy in general,0,10,5,Extremely important for democracy in general
+Never,Always,0,10,1,Never
+Never,Always,0,10,2,Seldomly
+Never,Always,0,10,3,Sometimes
+Never,Always,0,10,4,Often
+Never,Always,0,10,5,Always
+Not at all important,Extremely important,0,10,1,Not at all important
+Not at all important,Extremely important,0,10,2,Not very important
+Not at all important,Extremely important,0,10,3,Somewhat important
+Not at all important,Extremely important,0,10,4,Very important
+Not at all important,Extremely important,0,10,5,Extremely important
+Not at all acceptable,Completely acceptable,0,10,1,Not at all acceptable
+Not at all acceptable,Completely acceptable,0,10,2,Not very acceptable
+Not at all acceptable,Completely acceptable,0,10,3,Somewhat acceptable
+Not at all acceptable,Completely acceptable,0,10,4,Very acceptable
+Not at all acceptable,Completely acceptable,0,10,5,Completely acceptable
+Not at all familiar,Completely familiar,1,5,1,Not at all familiar
+Not at all familiar,Completely familiar,1,5,2,Not very familiar
+Not at all familiar,Completely familiar,1,5,3,Somewhat familiar
+Not at all familiar,Completely familiar,1,5,4,Very familiar
+Not at all familiar,Completely familiar,1,5,5,Completely familiar
+Extremely close,Not at all close,1,5,1,Extremely close
+Extremely close,Not at all close,1,5,2,Very close
+Extremely close,Not at all close,1,5,3,Quite close
+Extremely close,Not at all close,1,5,4,Not very close
+Extremely close,Not at all close,1,5,5,Not at all close
+Never,Always,1,5,1,Never
+Never,Always,1,5,2,Hardly ever
+Never,Always,1,5,3,Sometimes
+Never,Always,1,5,4,Often
+Never,Always,1,5,5,Always
+Very likely,Not at all likely,1,4,1,Very likely
+Very likely,Not at all likely,1,4,2,Likely
+Very likely,Not at all likely,1,4,3,Not very likely
+Very likely,Not at all likely,1,4,4,Not at all likely
+Not at all willing,Completely willing,0,10,1,Not at all willing
+Not at all willing,Completely willing,0,10,2,Not very willing
+Not at all willing,Completely willing,0,10,3,Somewhat willing
+Not at all willing,Completely willing,0,10,4,Very willing
+Not at all willing,Completely willing,0,10,5,Completely willing
+"Yes, someone living with me tested positive for COVID-19",I have not lived with anyone since the start of the pandemic,1,4,1,"Yes, someone living with me tested positive for COVID-19"
+"Yes, someone living with me tested positive for COVID-19",I have not lived with anyone since the start of the pandemic,1,4,2,someone living with me tested positive for COVID-19
+"Yes, someone living with me tested positive for COVID-19",I have not lived with anyone since the start of the pandemic,1,4,3,Yes
+"Yes, someone living with me tested positive for COVID-19",I have not lived with anyone since the start of the pandemic,1,4,4,I have not lived with anyone since the start of the pandemic
+People's Party for Freedom and Democracy,Omtzigt/NSC,1,18,4,Omtzigt/NSC
+Very likely,Not at all likely,1,5,1,Very likely
+Very likely,Not at all likely,1,5,2,Likely
+Very likely,Not at all likely,1,5,3,Somewhat likely
+Very likely,Not at all likely,1,5,4,Not likely
+Very likely,Not at all likely,1,5,5,Not at all likely
+Not at all likely,Very likely,0,4,1,Not at all likely
+Not at all likely,Very likely,0,4,2,Not likely
+Not at all likely,Very likely,0,4,3,Somewhat likely
+Not at all likely,Very likely,0,4,4,Likely
+Not at all likely,Very likely,0,4,5,Very likely
+Not at all,Completely,0,6,1,Not at all
+Not at all,Completely,0,6,2,Not very
+Not at all,Completely,0,6,3,Somewhat
+Not at all,Completely,0,6,4,Very
+Not at all,Completely,0,6,5,Completely
+Not at all masculine,Very masculine,0,6,1,Not at all masculine
+Not at all masculine,Very masculine,0,6,2,Not very masculine
+Not at all masculine,Very masculine,0,6,3,Somewhat masculine
+Not at all masculine,Very masculine,0,6,4,Rather masculine
+Not at all masculine,Very masculine,0,6,5,Very masculine
+Not at all feminine,Very feminine,0,6,1,Not at all feminine
+Not at all feminine,Very feminine,0,6,2,Not very feminine
+Not at all feminine,Very feminine,0,6,3,Somewhat feminine
+Not at all feminine,Very feminine,0,6,4,Rather feminine
+Not at all feminine,Very feminine,0,6,5,Very feminine
+Not at all important,Extremely important,0,6,1,Not at all important
+Not at all important,Extremely important,0,6,2,Not very important
+Not at all important,Extremely important,0,6,3,Somewhat important
+Not at all important,Extremely important,0,6,4,Very important
+Not at all important,Extremely important,0,6,5,Extremely important
+Strongly in favour,Strongly against,1,5,1,Strongly in favour
+Strongly in favour,Strongly against,1,5,2,Somewhat in favour
+Strongly in favour,Strongly against,1,5,3,Neither in favour nor against
+Strongly in favour,Strongly against,1,5,4,Somewhat against
+Strongly in favour,Strongly against,1,5,5,Strongly against
+Never,Always,1,5,1,Never
+Never,Always,1,5,2,Rarely
+Never,Always,1,5,3,Sometimes
+Never,Always,1,5,4,Often
+Never,Always,1,5,5,Always
+Entirely by natural processes,Entirely by human activity,1,5,1,Entirely by natural processes
+Entirely by natural processes,Entirely by human activity,1,5,2,Mainly by natural processes
+Entirely by natural processes,Entirely by human activity,1,5,3,About equally by natural processes and human activity
+Entirely by natural processes,Entirely by human activity,1,5,4,Mainly by human activity
+Entirely by natural processes,Entirely by human activity,1,5,5,Entirely by human activity
+Very much like me,Not like me at all,1,6,1,Very much like me
+Very much like me,Not like me at all,1,6,2,Somewhat like me
+Very much like me,Not like me at all,1,6,3,Not very like me
+Very much like me,Not like me at all,1,6,4,Not like me at all
